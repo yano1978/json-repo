@@ -32,7 +32,8 @@
 		"postId": 1,
 		"rating": 4,
 		"author": "Ruth",
-		"date": "2017-10-10T19:15:22+0100"
+		"date": "2017-10-10T19:15:22+0100",
+		"useful_count": 1
 	  },
 	  {
 		"id": 2,
@@ -40,23 +41,26 @@
 		"postId": 1,
 		"rating": 5,
 		"author": "Cristina",
-		"date": "2018-08-13T22:05:30+0100"
+		"date": "2018-08-13T22:05:30+0100",
+		"useful_count": 5
 	  },
 	  {
 		"id": 3,
 		"body": "Conozco el producto y por eso lo he encargado. Lo único es que los plazos de entrega me parecen muy largos. Por lo demás todo muy bien.",
 		"postId": 1,
-		"rating": 4,
+		"rating": 3,
 		"author": "Ruth",
-		"date": "2017-10-10T19:15:22+0100"
+		"date": "2017-10-10T19:15:22+0100",
+		"useful_count": 2
 	  },
 	  {
 		"id": 4,
 		"body": "Producto muy natural y muy cuidado en todos los aspectos. Cumple con normativas exigidas. Solo puedo decir que comparando con otras marcas es excelente.",
 		"postId": 1,
-		"rating": 5,
+		"rating": 54,
 		"author": "Ramón",
-		"date": "2015-03-16T21:01:05+0100"
+		"date": "2015-03-16T21:01:05+0100",
+		"useful_count": 3
 	  },
 	  {
 		"id": 5,
@@ -64,15 +68,17 @@
 		"postId": 1,
 		"rating": 5,
 		"author": "Carmen",
-		"date": "2015-03-16T21:01:05+0100"
+		"date": "2015-03-16T21:01:05+0100",
+		"useful_count": 5
 	  },
 	  {
 		"id": 6,
-		"body": "Este producto es una mierda, soy uno marranos y ladrones, vuestras madres la chupan bajo de un puente a sin techos.",
+		"body": "No estoy satisfecho con el producto",
 		"postId": 1,
-		"rating": 5,
-		"author": "Súper Polla",
-		"date": "2015-03-16T21:01:05+0100"
+		"rating": 1,
+		"author": "Marcos",
+		"date": "2017-09-10T19:15:22+0100",
+		"useful_count": 1
 	  }
 	],
 	"profile": {
