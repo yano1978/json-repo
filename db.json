@@ -11,6 +11,18 @@
 	  {
 		"id": 3,
 		"title": "Post 3"
+	  },
+	  {
+		"id": 4,
+		"title": "Post 4"
+	  },
+	  {
+		"id": 5,
+		"title": "Post 5"
+	  },
+	  {
+		"id": 6,
+		"title": "Post 6"
 	  }
 	],
 	"comments": [
@@ -37,8 +49,7 @@
 		"rating": 4,
 		"author": "Ruth",
 		"date": "2017-10-10T19:15:22+0100"
-	  }
-	  ,
+	  },
 	  {
 		"id": 4,
 		"body": "Producto muy natural y muy cuidado en todos los aspectos. Cumple con normativas exigidas. Solo puedo decir que comparando con otras marcas es excelente.",
@@ -46,8 +57,7 @@
 		"rating": 5,
 		"author": "Ramón",
 		"date": "2015-03-16T21:01:05+0100"
-	  }
-	  ,
+	  },
 	  {
 		"id": 5,
 		"body": "Riquisimo.Nos gusta a tod@s en casa .",
