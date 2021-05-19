@@ -28,7 +28,7 @@
 	"comments": [
 	  {
 		"id": 1,
-		"body": "I had never tried this drink and the truth is that the product is delicious! I will repeat fixed!",
+		"body": "I had never tried this drink and the truth is that the product is delicious! I will surely buy it again!",
 		"postId": 1,
 		"rating": 4,
 		"author": "Ruth",
@@ -38,7 +38,7 @@
 	  },
 	  {
 		"id": 2,
-		"body": "I really like this drink, it is not excessively sweet (and I like that). I eat it with cereals, carob, chai tea ... I recommend it.",
+		"body": "I really like this drink, it is not excessively sweet (and I like that). I eat it with cereals, carob, chai tea... I recommend it.",
 		"postId": 1,
 		"rating": 5,
 		"author": "Christine",
@@ -48,7 +48,7 @@
 	  },
 	  {
 		"id": 3,
-		"body": "Conozco el producto y por eso lo he encargado. Lo único es que los plazos de entrega me parecen muy largos. Por lo demás todo muy bien.",
+		"body": "I know the product and that is why I have ordered it. The only thing is that the delivery times seem very long. Otherwise everything very well.",
 		"postId": 1,
 		"rating": 3,
 		"author": "Mary",
